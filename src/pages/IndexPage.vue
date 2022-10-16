@@ -1,6 +1,6 @@
 <template>
   <div id="indexPage">
-    <h1>🐟 鱼了个鱼</h1>
+    <h1>🦐 泽了个泽</h1>
     <div style="margin-bottom: 16px">低配版羊了个羊小游戏，仅供消遣</div>
     <a-button
       block
@@ -14,33 +14,12 @@
       style="margin-bottom: 16px"
       @click="toGamePage(middleGameConfig)"
     >
-      中等模式
-    </a-button>
-    <a-button
-      block
-      style="margin-bottom: 16px"
-      @click="toGamePage(hardGameConfig)"
-    >
       困难模式
     </a-button>
     <a-button
       block
       style="margin-bottom: 16px"
       @click="toGamePage(lunaticGameConfig)"
-    >
-      地狱模式
-    </a-button>
-    <a-button
-      block
-      style="margin-bottom: 16px"
-      @click="toGamePage(skyGameConfig)"
-    >
-      天域模式
-    </a-button>
-    <a-button
-      block
-      style="margin-bottom: 16px"
-      @click="toGamePage(yangGameConfig)"
     >
       羊了个羊模式
     </a-button>
@@ -49,10 +28,7 @@
     </a-button>
     <my-ad />
     <div class="footer">
-      鱼了个鱼 ©2022 by
-      <a href="https://github.com/liyupi" target="_blank" style="color: #fff">
-        程序员鱼皮
-      </a>
+      泽了个泽 ©2022 by lx  from open source yulegeyu
       |
       <a
         href="https://github.com/liyupi/yulegeyu"
