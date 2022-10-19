@@ -1,7 +1,7 @@
 <template>
   <div id="indexPage">
     <h1>🦐 泽了个泽</h1>
-    <div style="margin-bottom: 16px">嘿新泽，这个是简单版"羊了个羊"，试试看能不能通关～</div>
+    <div style="margin-bottom: 16px">嘿昕泽，这个是简单版"羊了个羊"，试试看能不能通关～</div>
     <a-button
       block
       style="margin-bottom: 16px"
